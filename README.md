@@ -35,19 +35,9 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ShreyasKudahalli&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasKudahalli&layout=compact&theme=github_dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShreyasKudahalli&theme=github-dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShreyasKudahalli&theme=github)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ShreyasKudahalli&theme=darkhub&margin-w=15)
 
 ---
 
