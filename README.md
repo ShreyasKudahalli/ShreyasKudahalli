@@ -10,8 +10,8 @@
 
 ## 🌐 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-8A2BE2?style=for-the-badge)](https://react-portfolio-phi-tan.vercel.app/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shreyaskudahalli/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://react-portfolio-phi-tan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyaskudahalli/)
 
 ---
 
