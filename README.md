@@ -66,8 +66,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShreyasKudahalli&theme=github-dark)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShreyasKudahalli&theme=github)
-
 ---
 
 ## 👀 Profile Views
